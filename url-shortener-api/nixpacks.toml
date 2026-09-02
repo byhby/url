@@ -1,0 +1,11 @@
+# Force Nixpacks to build as Node.js environment
+providers = ["node"]
+
+[phases.setup]
+nixPkgs = ["nodejs_20"]
+
+[phases.install]
+cmds = ["npm install"]
+
+[start]
+cmd = "node server/index.js"
