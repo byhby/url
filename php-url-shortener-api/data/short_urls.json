@@ -1,0 +1,19 @@
+{
+    "78149": {
+        "code": "78149",
+        "destinationUrl": "https:\/\/github.com",
+        "validityDays": 7,
+        "createdAt": "2026-09-02T18:39:42+00:00",
+        "expiresAt": "2026-09-09T18:39:42+00:00",
+        "clicks": 0
+    },
+    "59768": {
+        "code": "59768",
+        "destinationUrl": "https:\/\/gitlab.com",
+        "validityDays": 7,
+        "createdAt": "2026-09-02T18:39:47+00:00",
+        "expiresAt": "2026-09-09T18:39:47+00:00",
+        "clicks": 2,
+        "updatedAt": "2026-09-02T18:39:47+00:00"
+    }
+}

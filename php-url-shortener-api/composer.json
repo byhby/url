@@ -1,0 +1,8 @@
+{
+  "name": "app/url-shortener-php",
+  "description": "PHP URL Shortener API with In-App Browser Filtering",
+  "type": "project",
+  "require": {
+    "php": ">=8.0"
+  }
+}
